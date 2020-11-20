@@ -1,0 +1,9 @@
+*.out
+*.vrb
+*.toc
+*.aux
+*.log
+*.nav
+*.snm
+/_region_.tex
+/auto/
